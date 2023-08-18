@@ -1,5 +1,6 @@
 # PWC-HR-Dash-board
 
+![alt text](https://github.com/Rslinkan4/PWC-HR-Dash-board/blob/main/Pwc%20Dashboard.png)
 
 
 
